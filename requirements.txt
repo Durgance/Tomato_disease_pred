@@ -55,7 +55,6 @@ nest-asyncio==1.5.1
 notebook==6.4.5
 numpy==1.21.4
 oauthlib==3.1.1
-opencv-python==4.5.4.58
 opt-einsum==3.3.0
 packaging==21.2
 pandas==1.3.4
