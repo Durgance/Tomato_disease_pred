@@ -38,7 +38,7 @@ def main():
 
 
     st.title("Tomato Disease Prediction")
-
+    st.subheader("Please upload the Tomato leaf image : ")
     image_file=st.file_uploader("Upload Image",
                                 type=["png","jpg","jpeg"])
     if st.button("Process"):
